@@ -1,11 +1,14 @@
-# Cron Monitor
-
 <div align="center">
+
+<img src="logo.svg" alt="Cron Monitor" width="120" height="120" />
+
+# Cron Monitor
 
 ![Cron Monitoring](https://img.shields.io/badge/cron-monitoring-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Cloudflare Workers](https://img.shields.io/badge/cloudflare-workers-orange)
 
-**Dead-simple cron job monitoring**
+### Dead-simple cron job monitoring
 
 Ping a URL, get alerted when jobs fail • Self-hosted • Free tier
 
@@ -251,10 +254,13 @@ PRs welcome! Please open an issue first to discuss changes.
 This project is built and maintained by **RapidTools**. If you find it useful:
 
 - ⭐ Star this repo
-- ☕ [Sponsor via GitHub Sponsors](https://github.com/sponsors/builder-rapidtools)
+- ☕ Support development:
+  - [Ko-fi](https://ko-fi.com/rapidtools) - One-time or monthly
+  - [Buy Me a Coffee](https://buymeacoffee.com/rapidtools)
+  - [GitHub Sponsors](https://github.com/sponsors/builder-rapidtools) (coming soon)
 - 🐦 Share it with others
 
-Even $1/month helps keep this project maintained!
+Every contribution helps keep this project maintained and improved!
 
 ## License
 
