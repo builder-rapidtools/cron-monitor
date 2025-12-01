@@ -11,7 +11,7 @@ zone_name = "rapidtools.dev"
 [[d1_databases]]
 binding = "DB"
 database_name = "cron-monitor-db"
-database_id = "TBD" # Will be created on first deploy
+database_id = "cbdebbce-62a0-4e64-b0d3-ebc48604c98a"
 
 # Environment variables (set with: wrangler secret put ALERT_EMAIL)
 # ALERT_EMAIL = "your-email@example.com" (optional - for email alerts)
