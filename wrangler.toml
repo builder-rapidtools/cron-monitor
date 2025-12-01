@@ -1,0 +1,17 @@
+name = "cron-monitor"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+workers_dev = false
+
+[[routes]]
+pattern = "cron.rapidtools.dev/*"
+zone_name = "rapidtools.dev"
+
+# D1 Database for storing monitor state
+[[d1_databases]]
+binding = "DB"
+database_name = "cron-monitor-db"
+database_id = "TBD" # Will be created on first deploy
+
+# Environment variables (set with: wrangler secret put ALERT_EMAIL)
+# ALERT_EMAIL = "your-email@example.com" (optional - for email alerts)
