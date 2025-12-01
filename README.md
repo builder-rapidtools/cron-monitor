@@ -256,8 +256,8 @@ This project is built and maintained by **RapidTools**. If you find it useful:
 - ⭐ Star this repo
 - ☕ Support development:
   - [Ko-fi](https://ko-fi.com/rapidtools) - One-time or monthly
-  - [Buy Me a Coffee](https://buymeacoffee.com/rapidtools)
-  - [GitHub Sponsors](https://github.com/sponsors/builder-rapidtools) (coming soon)
+  - [Buy Me a Coffee](https://buymeacoffee.com/rapidtools) - Quick donations
+  - [GitHub Sponsors](https://github.com/sponsors/builder-rapidtools) (pending approval)
 - 🐦 Share it with others
 
 Every contribution helps keep this project maintained and improved!
