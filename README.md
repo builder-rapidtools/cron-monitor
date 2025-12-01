@@ -249,18 +249,25 @@ zone_name = "yourdomain.com"
 
 PRs welcome! Please open an issue first to discuss changes.
 
-## Sponsor
+## Support This Project
 
-This project is built and maintained by **RapidTools**. If you find it useful:
+If you find this project useful, consider supporting its development:
 
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rapidtools)
+
+<a href="https://www.buymeacoffee.com/rapidtools" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+
+</div>
+
+**Other ways to support:**
 - ⭐ Star this repo
-- ☕ Support development:
-  - [Ko-fi](https://ko-fi.com/rapidtools) - One-time or monthly
-  - [Buy Me a Coffee](https://buymeacoffee.com/rapidtools) - Quick donations
-  - [GitHub Sponsors](https://github.com/sponsors/builder-rapidtools) (pending approval)
-- 🐦 Share it with others
+- 🐛 Report bugs and suggest features
+- 📢 Share with others who might benefit
+- 💬 Contribute code or documentation
 
-Every contribution helps keep this project maintained and improved!
+---
 
 ## License
 
